@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\PathfindingVisualizer\PathfindingVisualizer\bin\Debug\PathfindingVisualizer.exe.config
+c:\users\user\documents\visual studio 2013\Projects\PathfindingVisualizer\PathfindingVisualizer\bin\Debug\PathfindingVisualizer.exe
+c:\users\user\documents\visual studio 2013\Projects\PathfindingVisualizer\PathfindingVisualizer\bin\Debug\PathfindingVisualizer.pdb
+c:\users\user\documents\visual studio 2013\Projects\PathfindingVisualizer\PathfindingVisualizer\obj\Debug\PathfindingVisualizer.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\PathfindingVisualizer\PathfindingVisualizer\obj\Debug\PathfindingVisualizer.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\PathfindingVisualizer\PathfindingVisualizer\obj\Debug\PathfindingVisualizer.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\PathfindingVisualizer\PathfindingVisualizer\obj\Debug\PathfindingVisualizer.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\PathfindingVisualizer\PathfindingVisualizer\obj\Debug\PathfindingVisualizer.exe
+c:\users\user\documents\visual studio 2013\Projects\PathfindingVisualizer\PathfindingVisualizer\obj\Debug\PathfindingVisualizer.pdb
