@@ -9,15 +9,24 @@ Features
 Pathfinding Algorithms:
 
   BFS (Breadth-First Search)
+  
   Bidirectional BFS
+  
   A (A-star) Algorithm*
+  
   Greedy Best-First Search
+  
   Bidirectional Swarm Algorithm
+  
 Maze Generation:
   Automatic generation of mazes to test algorithms.
+  
 Interactive Controls:
+
   Draw obstacles using the mouse.
+  
   Adjust visualization speed dynamically.
+  
   Set start and end points manually.
 
 **A (A-star) Algorithm**
