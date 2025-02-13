@@ -44,6 +44,8 @@ Set start and end points manually.
 ![image](https://github.com/user-attachments/assets/4521216c-2db3-4696-8457-fcd88c078852)
 
 
+**Maze Generator**
+![image](https://github.com/user-attachments/assets/0b364cd8-076f-41d2-b4be-302ad3658133)
 
 
 
